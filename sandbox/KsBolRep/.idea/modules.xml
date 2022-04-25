@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/KsBolRep.iml" filepath="$PROJECT_DIR$/.idea/KsBolRep.iml" />
       <module fileurl="file://$PROJECT_DIR$/../sandbox/sandbox.iml" filepath="$PROJECT_DIR$/../sandbox/sandbox.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/KsBolRep.iml" filepath="$PROJECT_DIR$/KsBolRep.iml" />
+>>>>>>> parent of 2e1c80b (перемещение подкаталога idea в корневую часть проекта)
     </modules>
   </component>
 </project>
