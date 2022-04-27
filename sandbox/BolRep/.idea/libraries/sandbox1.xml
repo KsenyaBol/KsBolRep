@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="sandbox">
+  <library name="sandbox1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../sandbox/build/libs/sandbox.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../build/distributions/sandbox.zip!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
