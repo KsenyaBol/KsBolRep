@@ -4,10 +4,10 @@ public class First {
     hello("world");
     hello("user");
     hello("Ksusha");
-
-    /*Point p1 = new Point(3, 4);
-    Point p2 = new Point(6, 8);
-    System.out.println("расстояние между двумя точками с координаами (" +p1.x + ";" + p1.y + ") и (" + p2.x + ";" + p2.y + ") = " + Point.distance(p1, p2));*/
+/*
+    Point p = new Point(2, 6, 5, 10);
+    System.out.println("расстояние между двумя точками с координаами (" +p.x1 + ";" + p.y1 + ") и (" + p.x2 + ";" + p.y2 + ") = " + p.distance());
+*/
 
    /* Point p = new Point(5, 9, 5, 7);
     System.out.println("Расстояние между двумя точками с координатами (" + p.x1 + ";" + p.y1 + ") и (" + p.x2 + ";" + p.y2 + ") = " + p.area());*/
