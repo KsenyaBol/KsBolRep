@@ -2,13 +2,22 @@ apply plugin: 'java'
 apply plugin: 'application'
 mainClassName = "ru.stqa.pft.sandbox.first"
 
-/*
 repositories {
     mavenCentral()
 }
 
+/*
 dependencies {
     compile 'org.testing:testing:6.9.10'
 }
-testImplementation 'org.testng:testng:7.5'
 */
+
+/*dependencies {
+    testImplementation 'org.testng:testng:7.5'
+}*/
+dependencies {
+    testImplementation 'org.testng:testng:7.4.0'
+}
+test {
+    useTestNG()
+}
