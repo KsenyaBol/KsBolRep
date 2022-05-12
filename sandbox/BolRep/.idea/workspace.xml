@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9033677-7f39-4997-8c5a-2ea55a86a7ec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../addressbook-web-tests/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../addressbook-web-tests/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/AdayData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/BdayData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/EmailData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/FullnameData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/ContactCreationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/ContactCreationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
