@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9033677-7f39-4997-8c5a-2ea55a86a7ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../addressbook-web-tests/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../addressbook-web-tests/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +80,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.GroupCreationTest (1)">
+  <component name="RunManager" selected="Gradle.ContactCreationTest ">
     <configuration name="First" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.First" />
       <module name="sandbox" />
@@ -94,6 +93,29 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="ContactCreationTest " type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../addressbook-web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.stqa.pft.addressbook.ContactCreationTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="GroupCreationTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -132,29 +154,6 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;ru.stqa.pft.addressbook.GroupCreationTests&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="PointTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/.." />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;ru.stqa.pft.sandbox.PointTests&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -212,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ContactCreationTest " />
         <item itemvalue="Gradle.GroupCreationTest (1)" />
         <item itemvalue="Gradle.GroupCreationTests" />
         <item itemvalue="TestNG.C:/Devel/GitHub/KsBolRep/addressbook-web-tests/src/GroupCreationTests.xml" />
         <item itemvalue="Gradle.UntitledTestCase (1)" />
-        <item itemvalue="Gradle.PointTests" />
       </list>
     </recent_temporary>
   </component>
@@ -244,5 +243,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/sandbox$UntitledTestCase__1_.ic" NAME="UntitledTestCase (1) Coverage Results" MODIFIED="1651521272359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/sandbox$ContactCreationTest__1_.ic" NAME="ContactCreationTest (1) Coverage Results" MODIFIED="1652364175901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
