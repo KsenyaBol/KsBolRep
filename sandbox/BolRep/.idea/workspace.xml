@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9033677-7f39-4997-8c5a-2ea55a86a7ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/AdayData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/BdayData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/EmailData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/FullnameData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/PersonalInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/test/java/ru/stqa/pft/sandbox/PointTests2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/AdayData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/BdayData.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/ContactCreationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/ContactCreationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/EmailData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/FullnameData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/ru/stqa/pft/sandbox/PointTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/ru/stqa/pft/sandbox/PointTests1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +88,7 @@
   }
 }</component>
   <component name="RunManager" selected="Gradle.ContactCreationTest ">
-    <configuration name="First" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="ru.stqa.pft.sandbox.First" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.First" />
       <module name="sandbox" />
       <extension name="coverage">
@@ -166,10 +170,10 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="UntitledTestCase (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PointTests2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../../addressbook-web-tests" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/.." />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
@@ -179,7 +183,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;ru.stqa.pft.addressbook.UntitledTestCase&quot;" />
+            <option value="&quot;ru.stqa.pft.sandbox.PointTests2&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -215,10 +219,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.ContactCreationTest " />
+        <item itemvalue="Gradle.PointTests2" />
         <item itemvalue="Gradle.GroupCreationTest (1)" />
         <item itemvalue="Gradle.GroupCreationTests" />
         <item itemvalue="TestNG.C:/Devel/GitHub/KsBolRep/addressbook-web-tests/src/GroupCreationTests.xml" />
-        <item itemvalue="Gradle.UntitledTestCase (1)" />
       </list>
     </recent_temporary>
   </component>
